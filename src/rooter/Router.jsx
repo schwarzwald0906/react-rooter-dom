@@ -1,8 +1,5 @@
 import { Switch, Route } from "react-router-dom";
 import { Home } from "../Home";
-import { Page1 } from "../Page1";
-import { Page1detailA } from "../Page1detailA";
-import { Page1detailB } from "../Page1detailB";
 import { Page2 } from "../Page2";
 import { Page1Route } from "./Page1Route";
 
